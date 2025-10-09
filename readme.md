@@ -1,0 +1,1 @@
+[Задания seminar_01](https://github.com/physicorym/designing_neural_network_architectures_2025_01/tree/main/seminar_01)
